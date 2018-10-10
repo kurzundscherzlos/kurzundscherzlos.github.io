@@ -4,8 +4,6 @@ categories: de
 tags: prosa
 ---
 
-## Nur noch einmal schlafen
-
 Schier endlose Weiten lagen vor ihnen. Dahinter: nur noch die Sonne, die in wenigen Augenblicken vom Schein des Mondes abgelöst werden, und sie in der Früh ein letztes Mal wecken würde, bevor sie den Weg zurück in Heimat und Alltag antreten müssten.
 
 Hinter ihnen lag der Blick ins Tal hinunter, aus dem sie eine Woche zuvor losgegangen waren, und viele Jahre desselben Alltags, von dem sie nach vierzehn Tagen Abwesenheit Morgen schon wieder freudig erwartet würden.

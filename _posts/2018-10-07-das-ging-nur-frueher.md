@@ -4,8 +4,6 @@ categories: de
 tags: prosa
 ---
 
-## Das ging nur früher
-
 Bei ihm zu Hause war schon lange nicht mehr genug Platz. Das Bett: viel zu klein. Aufgeräumt und geputzt wird nur für Besuch; und solcher ist sie ja nicht. Ihr Kopfkissen liegt trotzdem noch im Bett. Wochen… Monate… Nach ihr riechen, tut es schon lange nicht mehr. Aber ist das ein Grund dafür, es nicht mehr dort liegen zu haben? Sieht er nicht ein.
 
 Ihr Bett: noch kleiner. Wenn man zwei Matratzen nebeneinander legt, geht es. Aufgeräumt und geputzt? Immer. Ihr ist das wichtig. Das Zimmer ist groß genug. Spartanische Ausstattung; aber alles da, was sie braucht.

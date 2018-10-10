@@ -1,11 +1,13 @@
 links:
-  - title: menue
+  - title: typen
     children:
-      - title: "start"
+      - title: "prosa"
         url: /
-      - title: "de"
+      - title: "poesie"
         url: /
-      - title: "en"
+  - title: sprachen
+    children:
+      - title: "deutsch"
         url: /
-      - title: "poesie........"
+      - title: "englisch"
         url: /

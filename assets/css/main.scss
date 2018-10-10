@@ -23,6 +23,10 @@ $masthead-link-color: $body-color;
   font-family: $monospace;
 }
 
+.page__footer {
+  display: none;
+}
+
 // CUSTOMS END HERE
 @charset "utf-8";
 

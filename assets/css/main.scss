@@ -19,6 +19,10 @@ $text-color: #222222;
 $link-color: $accent-color;
 $masthead-link-color: $body-color;
 
+.site-title {
+  font-family: $monospace;
+}
+
 // CUSTOMS END HERE
 @charset "utf-8";
 

@@ -49,17 +49,17 @@ author:
       icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/u/kurzundscherzlos"
 
-footer:
-  links:
-    - label: "web"
-      icon: "fas fa-fw fa-link"
-      url: "https://kurzundscherzlos.de"
-    - label: "instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kurzundscherzlos"
-    - label: "reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: "https://reddit.com/u/kurzundscherzlos"
+# footer:
+#   links:
+#     - label: "web"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://kurzundscherzlos.de"
+#     - label: "instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/kurzundscherzlos"
+#     - label: "reddit"
+#       icon: "fab fa-fw fa-reddit"
+#       url: "https://reddit.com/u/kurzundscherzlos"
 # _data/ui-text.yml >> follow_label >> Follow:
 
 compress_html:

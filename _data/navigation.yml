@@ -2,12 +2,12 @@ links:
   - title: typen
     children:
       - title: "prosa"
-        url: /
+        url: /tags/prosa
       - title: "poesie"
-        url: /
+        url: /tags/poesie
   - title: sprachen
     children:
       - title: "deutsch"
-        url: /
+        url: /categories/de/
       - title: "englisch"
-        url: /
+        url: /categories/en

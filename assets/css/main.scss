@@ -28,11 +28,11 @@ $masthead-link-color: $body-color;
 }
 
 .masthead {
-  border: none;
+  border: none !important;
 }
 
 body {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 // CUSTOMS END HERE

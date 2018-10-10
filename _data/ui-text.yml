@@ -2,8 +2,8 @@
 # ----------------
 de: &DEFAULT_DE
   page                       : "Seite"
-  pagination_previous        : "<i class="fa fa-chevron-left"></i>"
-  pagination_next            : "Nächste"
+  pagination_previous        : "«"
+  pagination_next            : "»"
   breadcrumb_home_label      : "Start"
   breadcrumb_separator       : "/"
   menu_label                 : "Menü"

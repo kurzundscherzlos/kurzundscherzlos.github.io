@@ -2,11 +2,11 @@
 # ----------------
 de: &DEFAULT_DE
   page                       : "Seite"
-  pagination_previous        : "Vorherige"
+  pagination_previous        : "<i class="fa fa-chevron-left"></i>"
   pagination_next            : "Nächste"
   breadcrumb_home_label      : "Start"
   breadcrumb_separator       : "/"
-  menu_label                 : "Menü ein-/ausschalten"
+  menu_label                 : "Menü"
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"

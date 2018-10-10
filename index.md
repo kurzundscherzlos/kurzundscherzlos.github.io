@@ -1,3 +1,5 @@
 ---
-title: kurz und scherzlos.
+title: start
+sidebar:
+  nav: "links"
 ---

@@ -21,6 +21,7 @@ $masthead-link-color: $body-color;
 
 .site-title {
   font-family: $monospace;
+  font-size: 2rem;
 }
 
 .page__footer, .archive__subtitle {
@@ -33,6 +34,14 @@ $masthead-link-color: $body-color;
 
 body {
   margin-bottom: 0 !important;
+}
+
+.pagination {
+  font-size: 2.5rem;
+  border: none !important
+}
+.pagination--pager {
+  padding: 0;
 }
 
 // CUSTOMS END HERE

@@ -6,6 +6,10 @@
 
 $paragraph-indent: true;
 // $indent-var: ???;
+blockquote {
+  $paragraph-indent: false;
+}
+
 
 $serif: "Crimson Text", Times, serif;
 $monospace: "Anonymous Pro", Consolas, monospace;

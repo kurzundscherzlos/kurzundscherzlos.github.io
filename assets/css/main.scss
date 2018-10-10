@@ -50,6 +50,13 @@ body {
   max-height: 90vh !important;
 }
 
+.archive > h3 {
+  margin: 1em 0 0.5em;
+  a {
+    text-decoration: none;
+  }
+}
+
 // CUSTOMS END HERE
 @charset "utf-8";
 

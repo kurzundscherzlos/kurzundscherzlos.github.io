@@ -4,6 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt"
 
 locale: "de-DE"
+timezone: "Europe/Berlin"
 
 name: ""
 description: &description "Ein kleines Schreibprojekt. Kurzgeschichten aller Art und Poesie mit Reimen. Nicht immer mit Reimen. Und nicht immer scherzlos; manchmal aber schon."

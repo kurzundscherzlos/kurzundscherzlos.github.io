@@ -45,9 +45,12 @@ body {
   border: none !important;
   margin-top: 0 !important;
   padding-top: 0 !important;
+  margin-bottom: 2rem;
+
 }
 .pagination--pager {
   padding: 0 !important;
+  margin-top: 2rem;
 }
 
 .sidebar.sticky {
@@ -60,6 +63,9 @@ body {
     text-decoration: none;
   }
 }
+
+
+
 
 // CUSTOMS END HERE
 @charset "utf-8";

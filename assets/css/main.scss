@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// CUSTOMS START HERE
+
+$paragraph-indent: true;
+// $indent-var: ???;
+blockquote {
+  $paragraph-indent: false;
+}
+
+
+$serif: "Crimson Text", Times, serif;
+$monospace: "Anonymous Pro", Consolas, monospace;
+$global-font-family: $serif;
+$header-font-family: $monospace;
+
+$accent-color: #5A141E;
+$body-color: #222222;
+$background-color: #F6F6F6;
+$text-color: #222222;
+$link-color: $accent-color;
+$masthead-link-color: $body-color;
+
+.site-title {
+  font-family: $monospace;
+  font-size: 2rem;
+}
+
+.page__footer, .archive__subtitle {
+  display: none;
+}
+
+.masthead {
+  border: none !important;
+}
+
+body {
+  margin-bottom: 0 !important;
+}
+
+.pagination {
+  font-size: 2.5rem;
+  border: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  margin-bottom: 2rem;
+
+}
+.pagination--pager {
+  padding: 0 !important;
+  margin-top: 2rem;
+}
+
+.sidebar.sticky {
+  max-height: 90vh !important;
+}
+
+.archive > h3 {
+  margin: 0.5rem 0;
+  a {
+    text-decoration: none;
+  }
+}
+
+
+
+
+// CUSTOMS END HERE
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

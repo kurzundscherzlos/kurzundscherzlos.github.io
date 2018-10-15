@@ -4,6 +4,11 @@
 
 // CUSTOMS START HERE
 
+#main, .masthead {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 $paragraph-indent: true;
 // $indent-var: ???;
 blockquote {

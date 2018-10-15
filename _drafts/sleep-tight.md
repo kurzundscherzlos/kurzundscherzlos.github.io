@@ -1,5 +1,5 @@
 ---
-title: Sleep Tight -- a Reversed Text Adventure
+title: Sleep Tight
 categories: 
 tags: prosa
 ---

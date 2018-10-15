@@ -4,9 +4,11 @@
 
 // CUSTOMS START HERE
 
-#main, .masthead {
+#main, .masthead, .page {
   max-width: 600px;
   margin: 0 auto;
+  float: none;
+  padding: 0;
 }
 
 $paragraph-indent: true;

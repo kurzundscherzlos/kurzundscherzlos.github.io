@@ -6,9 +6,9 @@
 
 #main, .masthead, .page {
   max-width: 600px;
-  margin: 0 auto;
-  float: none;
-  padding: 0;
+  margin: 0 auto !important;
+  float: left !important;
+  padding: 0 !important;
 }
 
 $paragraph-indent: true;

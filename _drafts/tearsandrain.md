@@ -2,8 +2,6 @@
 title: Tears and Rain
 ---
 
-# Tears and Rain
-
 [//]: # James Blunt - Tears and Rain
 
 [//]: # Francis 25 yo - from Boston, MA, USA - Irish American Family which is open to transformation  - Tech Support (apprenticeship) in the US American embassy (temp transfer) in London, UK

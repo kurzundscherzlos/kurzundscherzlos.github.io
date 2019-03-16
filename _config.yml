@@ -75,7 +75,7 @@ defaults:
       type: posts
     values:
       layout: single
-      read_time: true
+      read_time: false
 #       author_profile: true
 #      sidebar:
 #        nav: "links"

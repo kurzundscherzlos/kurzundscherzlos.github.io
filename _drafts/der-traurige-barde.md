@@ -1,6 +1,8 @@
-| :----- |
-| --- title: Der traurige Barde ---  |
+---
+title: Der traurige Barde
+---
 
+<pre>
 Inmitten des Treibens
 von Räubern, Halunken,
 von Narren und Bettlern,
@@ -18,3 +20,4 @@ und raubst mir den Sinn.
 
 Wohl wissend, dass Du mich wirst niemals begehren,
 und dass ich auf ewig alleine bin.
+</pre>

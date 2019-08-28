@@ -7,7 +7,7 @@ locale: "de-DE"
 timezone: "Europe/Berlin"
 
 name: ""
-description: &description "Ein kleines Schreibprojekt. Prosa. Poesie. Papperlapapp. Hoch-Niveau-Word-Art aus dem Südnorden."
+description: &description "Ein kleines Schreibprojekt. Kurzgeschichten aller Art und Poesie mit Reimen. Nicht immer mit Reimen. Nicht immer scherzlos. Aber immer kurz. Hoch-Niveau-Word-Art und Papperlapapp aus dem Südnorden."
 
 url: "https://kurzundscherzlos.de"
 repository: "kurzundscherzlos/kurzundscherzlos.github.io"

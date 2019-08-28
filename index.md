@@ -3,7 +3,7 @@
 #  nav: "links"
 ---
 
-**Ein kleines Schreibprojekt.** Kurzgeschichten aller Art und Poesie mit Reimen. Nicht immer mit Reimen. Und nicht immer scherzlos; **manchmal aber schon.**
+**Ein kleines Schreibprojekt.** Prosa. Poesie. Papperlapapp. Hoch-Niveau-Word-Art aus dem Südnorden. 
 
 {% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>

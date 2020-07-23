@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": false,
+  "name": "kurz und scherzlos",
+  "shortDesc": "Ein kleines Schreibprojekt. Kurzgeschichten aller Art und Poesie mit Reimen. Nicht immer mit Reimen. Nicht immer scherzlos. Aber immer kurz. Hoch-Niveau-Word-Art und Papperlapapp aus dem Südnorden.",
+  "url": "https://kurzundscherzlos.de",
+  "authorEmail": "hi@kurzundscherzlos.de",
+  "authorHandle": "@kurzundscherzlos",
+  "authorName": "fabian",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": "$ilp.uphold.com/2PAJh2bMrJer",
+  "faviconPath": "/images/favicon.png"
+}

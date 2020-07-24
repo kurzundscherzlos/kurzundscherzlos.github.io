@@ -14,10 +14,16 @@ const EXCLUDED_URLS = [
 ];
 
 // URLS that we want to be cached when the worker is installed
-const PRE_CACHE_URLS = ['/', '/fonts/CrimsonText-Regular.ttf', '/fonts/CrimsonText-Italic.ttf', '/fonts/CrimsonText-Bold.ttf', '/fonts/CrimsonText-BoldItalic.ttf'];
+const PRE_CACHE_URLS = [
+  '/',
+  '/fonts/CrimsonText-Regular.ttf',
+  '/fonts/CrimsonText-Italic.ttf',
+  '/fonts/CrimsonText-Bold.ttf',
+  '/fonts/CrimsonText-BoldItalic.ttf'
+];
 
 // You might want to bypass a certain host
-const IGNORED_HOSTS = ['localhost', 'unpkg.com', ];
+const IGNORED_HOSTS = ['localhost', 'unpkg.com'];
 
 /**
  * Takes an array of strings and puts them in a named cache store
